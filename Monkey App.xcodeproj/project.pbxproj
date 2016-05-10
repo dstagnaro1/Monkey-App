@@ -38,7 +38,7 @@
 		803E874F1CD12A0E007D52DC = {
 			isa = PBXGroup;
 			children = (
-				803E875A1CD12A0E007D52DC /* NewCoolApp */,
+				803E875A1CD12A0E007D52DC /* Monkey App */,
 				803E87591CD12A0E007D52DC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		803E875A1CD12A0E007D52DC /* NewCoolApp */ = {
+		803E875A1CD12A0E007D52DC /* Monkey App */ = {
 			isa = PBXGroup;
 			children = (
 				803E875B1CD12A0E007D52DC /* AppDelegate.swift */,
@@ -61,6 +61,7 @@
 				803E87641CD12A0E007D52DC /* LaunchScreen.storyboard */,
 				803E87671CD12A0E007D52DC /* Info.plist */,
 			);
+			name = "Monkey App";
 			path = NewCoolApp;
 			sourceTree = "<group>";
 		};
